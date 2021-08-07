@@ -4,13 +4,13 @@
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "João Paulo Moraes",
-    "email": "joaopaulomoraes@outlook.com",
-    "url": "https://github.com/joaopaulomoraes"
+    "name": "Sam Arbid",
+    "email": "samarbid@gmail.com",
+    "url": "https://github.com/samk13"
   },
   "bugs": {
-    "url": "https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate/issues",
-    "email": "joaopaulomoraes@outlook.com"
+    "url": "https://github.com/Samk13/reactjs-vite-tailwindcss/issues",
+    "email": "samarbid@gmail.com"
   },
   "scripts": {
     "dev": "vite",
