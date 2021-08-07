@@ -22,6 +22,9 @@ function App() {
             <p className="mt-10 font-[600] text-[250px] font-bold bg-[#1da1f1] rounded-[100px]">
               test
             </p>
+            <p className="mt-10 font-[600] text-[250px] font-bold bg-[#1da1f1] rounded-[100px]">
+              test
+            </p>
           </p>
         </div>
       </div>
