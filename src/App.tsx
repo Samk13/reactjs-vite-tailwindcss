@@ -22,6 +22,23 @@ function App() {
             <p className="mt-10 font-[600] text-[250px] font-bold bg-[#1da1f1] rounded-[100px]">
               test
             </p>
+            <div>
+              <samp className="bg-green-200">asasdd</samp>
+              <details>
+                asdasd
+                <summary className="text-green-700">jdadflsshad</summary>
+              </details>
+              <abbr className="cursor-help" title="asdasdh">
+                test
+              </abbr>
+              <kbd className="bg-blue-200">test</kbd>
+              <samp>
+                test asd Lorem ipsum dolor sit amet consectetur adipisicing
+                elit. Vitae dolorem sunt asperiores praesentium ratione laborum?
+                Voluptatibus adipisci quis, corrupti maiores reprehenderit atque
+                incidunt quae? Distinctio facilis officiis dicta quidem ipsa?
+              </samp>
+            </div>
             <p className="mt-10 font-[600] text-[250px] font-bold bg-[#1da1f1] rounded-[100px]">
               test
             </p>
